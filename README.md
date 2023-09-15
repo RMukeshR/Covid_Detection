@@ -2,9 +2,7 @@
 Comparative Analysis of Various Image Classification Methods Utilizing a COVID-19 Chest X-ray Dataset.
 
 
-|                    SVM model                 |
-|-------------------------|--------------------|
-
+### SVM Model
 | Model                   |           Accuracy |    
 |-------------------------|--------------------|
 | SVM (linear kernel)     | 0.979253112033195  |
@@ -12,4 +10,10 @@ Comparative Analysis of Various Image Classification Methods Utilizing a COVID-1
 | SVM (rbf kernel)        | 0.979253112033195  |
 | SVM (rsigmoid kernel)   | 0.5103734439834025 |
 
+
+### CNN Model
+| Model                   |           Accuracy |    
+|-------------------------|--------------------|
+| CNN     | 0.950276255607605 |
+| VGG16       | 0.9834254384040833  | 
 
