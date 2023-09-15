@@ -14,6 +14,6 @@ Comparative Analysis of Various Image Classification Methods Utilizing a COVID-1
 ### CNN Model
 | Model                   |           Accuracy |    
 |-------------------------|--------------------|
-| CNN     | 0.950276255607605 |
+| CNN     | 0.9723756909370422 |
 | VGG16       | 0.9834254384040833  | 
 
